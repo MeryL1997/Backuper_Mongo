@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Classimodels.orders"}],"uuid":"8f31f12c4c80432cb982c7196dca5f2a"}
